@@ -1,0 +1,2 @@
+C:\Users\mitro\source\repos\Symbols\Debug\Symbols.exe
+C:\Users\mitro\source\repos\Symbols\Debug\Symbols.pdb
