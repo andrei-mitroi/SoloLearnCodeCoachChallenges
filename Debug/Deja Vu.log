@@ -1,0 +1,5 @@
+﻿  Deja Vu.cpp
+C:\Users\mitro\source\repos\Deja Vu\Deja Vu.cpp(6,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\mitro\source\repos\Deja Vu\Deja Vu.cpp(7,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mitro\source\repos\Deja Vu\Deja Vu.cpp(13): warning C4715: 'uniqueCharacters': not all control paths return a value
+  Deja Vu.vcxproj -> C:\Users\mitro\source\repos\Deja Vu\Debug\Deja Vu.exe
